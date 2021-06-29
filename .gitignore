@@ -1,0 +1,3 @@
+*.class
+libhello.so
+out/
